@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/CookBook5/Scenes/Radius.unity
+- path: Assets/CookBook7/Scenes/Toon.unity
   isLoaded: 1
   isActive: 1
